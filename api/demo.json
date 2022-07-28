@@ -1,0 +1,22 @@
+{
+    "code": 200,
+    "message": "成功",
+    "data": {
+        "user": [
+            {
+                "id": 1,
+                "username": "admin",
+                "name": "admin",
+                "password": "123456",
+                "email": "admin@admin.com"
+            },
+            {
+                "id": 2,
+                "username": "editor",
+                "name": "editor",
+                "password": "123456",
+                "email": "editor@admin.com"
+            }
+        ]
+    }
+}
